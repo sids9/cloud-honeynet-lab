@@ -1,4 +1,4 @@
-# High-Level Multi-Cloud Honeypot Architecture
+# High-Level Honeypot Architecture
 
 ```mermaid
 flowchart LR

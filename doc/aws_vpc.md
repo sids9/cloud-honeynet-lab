@@ -1,4 +1,4 @@
-# Multi-Cloud Honeypot VPC/VNet Architecture
+#  Honeypot VPC/VNet Architecture
 
 ## AWS — VPC ap-south-1
 
